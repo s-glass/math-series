@@ -11,7 +11,7 @@ Author: Sarah Glass for Python 401
 * Calling this function with no optional parameters will produce numbers from the fibonacci series. Calling it with the optional arguments 2 and 1 will produce values from the lucas numbers. Other values for the optional parameters will produce other series.
 
 ## Links and Resources
-no links or resources
+no links or resources outside of TA and peer help.
 
 ## Setup
 No .env requirements; gitignore invludes venv.
